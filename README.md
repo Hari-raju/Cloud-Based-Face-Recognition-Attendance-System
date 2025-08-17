@@ -22,7 +22,7 @@ Built entirely on **Amazon Web Services (AWS)**, it ensures **scalability, secur
 ## 🎥 Demo & 📄 Documentation  
 
 📹 **[Watch Demo Video](https://github.com/user-attachments/assets/236a857b-8d89-429e-acf4-ff9658e759a0)**  
-📄 **[Read Project Report](docs/Cloud_Project.pdf)**  
+📄 **[Read Project Report](https://github.com/Hari-raju/Cloud-Based-Face-Recognition-Attendance-System/blob/main/Cloud_Project.pdf)**  
 
 ---
 
